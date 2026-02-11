@@ -10,6 +10,10 @@ Agregar las reglas CSS necesarias para que el sitio sea responsive en los breakp
 
 ### Consignas
 - Revisá la estructura del `index.html` y el CSS actual.
+- En la carpeta `Bocetos` están los bocetos de referencia:
+  - [Boceto desktop](Bocetos/Boceto_desktop.png): vista para pantallas grandes.
+  - [Boceto tablet](Bocetos/Boceto_tablet.png): vista para tablets (~768px).
+  - [Boceto mobile](Bocetos/Boceto_mobile.png): vista para móviles (~450px).
 - Definí media queries para `max-width: 768px` y `max-width: 450px`.
 - Ajustá tipografías, espacios, tamaños y distribución de elementos para que el contenido se vea bien en pantallas pequeñas.
 - Evitá el desbordamiento horizontal y asegurate de que todo el contenido sea legible.
